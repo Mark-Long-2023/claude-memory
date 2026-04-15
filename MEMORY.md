@@ -1,5 +1,5 @@
-# Memory Index
-
+- [User Profile](user_profile.md) — healthcare BI, company laptop restrictions, personal novypro.com Power BI workspace
 - [Maven Hospital Report - Current State](project_maven_hospital.md) — D3 report mid-migration to master facts; next steps, auth notes, readmission_fact plan
 - [pbir.tools CLI Reference](reference_pbir_tools.md) — pbir-cli commands, install, and agent integration for PBIR report automation
-- [PBIX Agentic Development Plugin](project_pbix_agent_plugin.md) — Personal experiment to build an org-specific Claude Code plugin for Power BI Report Server (.pbix) agentic development; stack, architecture, BPA strategy, next steps
+- [Power BI D3 Report Project](project_powerbi_d3.md) — Case Study semantic model on novypro.com; paused on company laptop (SSL proxy), resume on personal laptop via MCP
+- [PBIX Agentic Plugin](project_pbix_agent_plugin.md) — Claude Code plugin concept to delegate manual PBI work; skills + hooks + agents; pbi-tools + TE2 CLI; personal laptop experimentation first

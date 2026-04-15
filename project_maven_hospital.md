@@ -2,8 +2,8 @@
 name: Maven Hospital Report - Current State
 description: D3.js analytics report built on Power BI data — current progress and architecture
 type: project
+originSessionId: 99784ff6-8ea8-48cb-b8cb-ddd233901303
 ---
-
 Work-in-progress D3.js Maven Hospital analytics report. Standalone encrypted HTML + data.bin delivery.
 
 **Source file:** `maven-hospital-report-2026-03-31.html` (edit this, never the output)
